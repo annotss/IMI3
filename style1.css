@@ -1,0 +1,92 @@
+#Docplannerlogo{
+    width: 268px;
+    height: 33px;
+    margin-left:10%;
+}
+ul{
+    display:flex;
+    margin-right: 100px;
+}
+header a:hover{
+    color:rgb(132, 219, 207);
+}
+
+li{
+    list-style: none;
+    margin-left:30px;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color:rgb(176, 176, 176)
+}
+#curecareer{
+    padding: 30px;
+    position: relative;
+    margin:80px;
+    background-color: white;
+    width:28%;
+    height:320px;
+}
+#sygnet{
+    margin-left: 50%;
+}
+h1{
+    color:rgb(154, 225, 215);
+    text-align: center
+}
+#text{
+    display: flex;
+}
+#text1{
+    width:30%;
+    margin-left: 250px;
+}
+#text2{
+    width:30%;
+    padding-left: 50px;
+}
+#tblocks{
+    display: flex;
+}
+#block1{
+    background-color: rgb(6, 205, 179);
+    width: 20%;
+    border-radius: 10px;
+    padding:25px;
+    margin-left: 100px;
+}
+#block2{
+    background-color: rgb(81, 144, 226);
+    width: 20%;
+    border-radius: 10px;
+    padding:25px;
+    margin-left: 50px;
+}
+#block3{
+    background-color: rgb(27, 39, 52);
+    width: 20%;
+    border-radius: 10px;
+    padding:25px;
+    margin-left: 50px;
+}
+footer{
+    color:grey;
+    font-size: 13px;
+    text-align: center;
+}
+#jaw1{
+    margin-top: 50px;
+    display: flex;
+}
+#weare{
+    width: 30%;
+    margin-left: 100px;
+}
+#jaw{
+    float:left;
+    width: 800px;
+}
